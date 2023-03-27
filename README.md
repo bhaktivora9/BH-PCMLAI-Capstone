@@ -46,8 +46,8 @@ _'Pop', 'Party', 'Dance/Electronic', 'Rock', 'R&B','At Home' ,'Romance', 'Chill'
 
 ### Data
 > *_NOTE:_*  Spotify open API's used to gather data
-API's used to gather data.
-- GET https://api.spotify.com/v1/browse/categories,
-- GET https://api.spotify.com/v1/browse/categories/{category_id}/playlists
-- GET https://api.spotify.com/v1/playlists/{playlist_id}/tracks
-- GET https://api.spotify.com/v1/audio-features/{id}
+> API's used to gather data.
+> - GET https://api.spotify.com/v1/browse/categories,
+> - GET https://api.spotify.com/v1/browse/categories/{category_id}/playlists
+> - GET https://api.spotify.com/v1/playlists/{playlist_id}/tracks
+> - GET https://api.spotify.com/v1/audio-features/{id}
