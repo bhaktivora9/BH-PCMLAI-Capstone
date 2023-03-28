@@ -1,8 +1,33 @@
-# BH-PCMLAI-Capstone
+### Project Title
+Auto Tagging / Auto Classify tracks on basis of audio features.
 
-### Problem Statement
+**Author**
+
+  Bhakti Vora
+
+#### Executive summary
+
+#### Rationale
+
+**Music** and **Talk Shows** or **Podcasts** has been an essential aspect of all human civilizations.
+Music has power to emotionally, morally, and culturally affect society.
+Whereas Podcasts gives you the platform to raise awareness and create real social change, gain knowledge on various topics in-depth.
+Over past decaded the borders between music worlds have disappeared, credit goes to globalization.
+
+Given these conditions music streaming apps have seen tremendous rise in content/data.This results into tremendous work load for subject matter experts to classify / categorize tracks on basis of their content.
+
+**This is where AI can help to reduce human effort of auto labelling audio tracks on basis of audio features. This labelling can be further extended to improvise recommending content to users.**
+
+#### Research Question
 *Creating a model that can be used to auto classify (categorize multi label) songs on basis of audio features.*
 
+#### Data Sources
+> *_NOTE:_*  Spotify open API's used to gather data
+> API's used to gather data.
+> - GET https://api.spotify.com/v1/browse/categories,
+> - GET https://api.spotify.com/v1/browse/categories/{category_id}/playlists
+> - GET https://api.spotify.com/v1/playlists/{playlist_id}/tracks
+> - GET https://api.spotify.com/v1/audio-features/{id}
 #### Features
 ##### danceability _(float)_
 _Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable._
@@ -40,14 +65,25 @@ _The overall estimated tempo of a track in beats per minute (BPM). In musical te
 ##### categories _(String)_
 _'Pop', 'Party', 'Dance/Electronic', 'Rock', 'R&B','At Home' ,'Romance', 'Chill', 'Jazz', 'Workout', 'Hip-Hop', 'Gaming', 'Summer', 'EQUAL', 'Indie', 'Mood','Travel', 'Indian Classical', 'Devotional', 'Wellness','RADAR', 'Classical','Instrumental',  'Sleep', 'Focus', 'Kids & Family','Cooking & Dining', 'Folk & Acoustic', 'Metal'_
 
-##### List of Files
-- _./data/categories.csv_
-- _./data/tracks.csv_
+#### Methodology
+ - Logistic Regression
+ - SVM
+ - Decision Tree
+ - KNN Classification.
 
-### Data
-> *_NOTE:_*  Spotify open API's used to gather data
-> API's used to gather data.
-> - GET https://api.spotify.com/v1/browse/categories,
-> - GET https://api.spotify.com/v1/browse/categories/{category_id}/playlists
-> - GET https://api.spotify.com/v1/playlists/{playlist_id}/tracks
-> - GET https://api.spotify.com/v1/audio-features/{id}
+#### Results
+What did your research find?
+
+#### Outline of project
+
+- [Link to notebook 1]()
+- [Link to notebook 2]()
+- [Link to notebook 3]()
+
+
+##### Contact and Further Information
+ - bhaktivora09@gmail.com
+##### Future Scope 
+ - Genre Classification.
+ - Build a Recommendation System on top of this model, get Users data from spotify.
+ - Extend the research for podcasts other regional music etc.
