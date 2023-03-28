@@ -72,7 +72,15 @@ _'Pop', 'Party', 'Dance/Electronic', 'Rock', 'R&B','At Home' ,'Romance', 'Chill'
  - KNN Classification.
 
 #### Results
-  - [Initial Analysis and Data Prepration](https://github.com/bhaktivora9/BH-PCMLAI-Capstone/blob/master/notebooks/initialAnalysis.ipynb)
+ - Findings 
+   ![newplot](https://user-images.githubusercontent.com/56788415/228142679-c770ce87-98c2-4552-9859-6e5bd1308100.png)
+   ![image](https://user-images.githubusercontent.com/56788415/228142716-7048d0d3-1b5b-454c-ab87-dd9120c1d8c3.png)
+   ![image](https://user-images.githubusercontent.com/56788415/228142760-117f3f86-a25c-4871-b912-2fac9e622477.png)
+   ![newplot (3)](https://user-images.githubusercontent.com/56788415/228143242-670e57d9-5af3-4312-9077-c204cdb0c4a8.png)
+   ![newplot (2)](https://user-images.githubusercontent.com/56788415/228142928-9ac010b5-97b3-4fb4-ba60-1d36c2ae58e6.png)
+   
+ - For detail analysis and code [Initial Analysis and Data Prepration](https://github.com/bhaktivora9/BH-PCMLAI-Capstone/blob/master/notebooks/initialAnalysis.ipynb)
+
 
 #### Outline of project
 
