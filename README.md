@@ -72,7 +72,7 @@ _'Pop', 'Party', 'Dance/Electronic', 'Rock', 'R&B','At Home' ,'Romance', 'Chill'
  - KNN Classification.
 
 #### Results
-  - [Initial Analysis and Data Prepration]()
+  - [Initial Analysis and Data Prepration](https://github.com/bhaktivora9/BH-PCMLAI-Capstone/blob/master/notebooks/initialAnalysis.ipynb)
 
 #### Outline of project
 
