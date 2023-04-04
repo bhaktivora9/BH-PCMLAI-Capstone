@@ -9,7 +9,7 @@ Auto Tagging / Auto Classify tracks on basis of audio features.
 
 #### Rationale
 
-**Music** and **Talk Shows** or **Podcasts** has been an essential aspect of all human civilizations.
+**Music** and **Talk Shows** or **Podcasts** have been an essential aspect of all human civilizations.
 Music has power to emotionally, morally, and culturally affect society.
 Whereas Podcasts gives you the platform to raise awareness and create real social change, gain knowledge on various topics in-depth.
 Over past decaded the borders between music worlds have disappeared, credit goes to globalization.
