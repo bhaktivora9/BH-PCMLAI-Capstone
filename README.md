@@ -84,9 +84,9 @@ _'Pop', 'Party', 'Dance/Electronic', 'Rock', 'R&B','At Home' ,'Romance', 'Chill'
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [Regression & Decision Tree Classifier](https://github.com/bhaktivora9/BH-PCMLAI-Capstone/blob/master/notebooks/Regression_and_Decision_Tree_Classifier.ipynb)
+- [Classification like KNN, Gausian etc.](https://github.com/bhaktivora9/BH-PCMLAI-Capstone/blob/master/notebooks/Classification.ipynb)
+- [SVM](https://github.com/bhaktivora9/BH-PCMLAI-Capstone/blob/master/notebooks/SVM.ipynb)
 
 
 ##### Contact and Further Information
