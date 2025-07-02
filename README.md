@@ -1,5 +1,5 @@
 ### Project Title
-Auto Tagging / Auto Classify tracks on basis of audio features.
+SpotClassify : An Auto Tagging of tracks on basis of audio features.
 
 **Author**
 
